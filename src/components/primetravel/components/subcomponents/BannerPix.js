@@ -11,7 +11,7 @@ export default function BannerPix() {
           style={{ color: "#3caf88", marginRight: "10px" }}
         />
         <h2 className="font-bold text-grayPrime">
-          Realize a Sua Compra Com Pix, Aprovação Instantânea!
+          Realize a sua compra com Pix, aprovação instantânea!
         </h2>
       </div>
     </div>

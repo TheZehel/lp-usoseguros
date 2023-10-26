@@ -440,8 +440,10 @@ export default function FormTravelBanner() {
             <Chip value="Sua Viagem Mais Segura Com" className="bg-grayUso" />
             <h1 className="text-4xl font-bold mb-4 text-white">Uso Seguros </h1>
             <p className="text-white text-2xl font-semibold">
-              Não importa como e para onde você viaja, nós te protegemos. Ainda
-              Contamos Com + de 30 Coberturas.
+              Não importa como. Não importa o destino. Você{" "}
+              <span className="font-bold">viajará protegido</span>, e contando
+              com <span className="font-bold">+ de 30 coberturas</span>, num só
+              pacote!
             </p>
             <img
               src={imageManagerPrimeTravel.ImagensLandPage.ImgEmParceriaCom}
@@ -452,7 +454,7 @@ export default function FormTravelBanner() {
           </div>
           <div className="animate__animated animate__zoomIn rounded-lg bg-white p-10 sm:p-4 ">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Faça Sua Cotação Gratuita
+              Faça sua cotação gratuita
             </h2>
             <p className="mt-2 text-lg leading-8 text-gray-600">
               Inicie sua cotação online preenchendo o formulário abaixo.

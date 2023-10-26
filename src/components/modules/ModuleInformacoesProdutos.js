@@ -43,26 +43,26 @@ const InformacoesProdutos = [
     id: "2",
     name: "Seguro Viagem",
     image: imageManagerInformacoesProdutos.imgProdutos.imgViagem,
-    buttonText: "Cotar Agora",
+    buttonText: "Cotar agora",
     link: "#",
-    title: "Proteção em Todas as categorias de Viagem.",
+    title: "PROTEÇÃO EM TODAS AS CATEGORIAS DE VIAGEM.",
     description:
-      "Tudo o que você e seus companheiros de viagem merecem para uma viagem mais segura.",
+      "Tudo o que você e seus companheiros merecem para uma viagem mais segura.",
     features: [
       {
-        name: "Viagens Aéreas",
-        description: "Coberturas que Garantem Sua segurança em Viagens Aéreas.",
+        name: "Viagens aéreas",
+        description: "Coberturas que garantem sua segurança em viagens aéreas.",
         icon: FontAwesomeIcon,
         iconProps: { icon: faHouse },
       },
       {
-        name: "Viagens Marítimas",
+        name: "Viagens marítimas",
         description: "Serviços exclusivos para as suas viagens marítimas",
         icon: FontAwesomeIcon,
         iconProps: { icon: faHouseMedicalFlag },
       },
       {
-        name: "Viagens Terrestres",
+        name: "Viagens terrestres",
         description: "Proteção também para suas viagens terrestres.",
         icon: FontAwesomeIcon,
         iconProps: { icon: faHouseUser },

@@ -22,19 +22,19 @@ export default function TelemedicinaTravel() {
                 className="font-semibold text-grayPrime"
                 style={{ fontSize: "1.5rem", lineHeight: "1.9rem" }}
               >
-                O Unico Seguro de Viagem Que Oferece Telemedicina Com o Melhor
-                Hospital de São Paulo 24H.
+                O unico Seguro de Viagem que oferece telemedicina com o melhor
+                hospital de São Paulo 24h.
               </h1>
               <p
                 className="mt-4"
                 style={{ color: "#919096", fontSize: "1.1rem" }}
               >
-                Agora Todos os planos de Seguro Viagem da Prime Travel contam
-                com o Pronto Atendimento Virtual do Einsten, um serviço de
+                Agora todos os planos de Seguro viagem da Prime Travel contam
+                com o pronto atendimento virtual do einsten, um serviço de
                 telemedicina para atendimento de sintomas de baixa complexidade,
-                com a qualidade do Hospital Israelita Albert Einsten. O acesso a
+                com a qualidade do hospital israelita Albert Einsten. O acesso a
                 este beneficio é rápido e fácil por meio do celular ou
-                computador, basta apenas ter conexão com intenet.
+                computador, basta apenas ter conexão com internet.
               </p>
             </div>
           </div>

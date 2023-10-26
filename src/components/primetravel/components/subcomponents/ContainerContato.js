@@ -39,8 +39,7 @@ export default function ContainerContato(props) {
             }}
           >
             Nos envie um WhatsApp de qualquer lugar que responderemos
-            imediatamente. Atendimento em português, 24h por dia, 7 dias por
-            semana!
+            imediatamente. Atendimento em português, 365 dias dias por ano!
           </p>
           <div
             className="flex"
@@ -85,15 +84,15 @@ export default function ContainerContato(props) {
                   padding: "10px 15px",
                   margin: "0 auto",
                   boxShadow: "2px 3px 7px 0px rgba(0,0,0,0.3)",
-                  display: 'flex',
-                  flexWrap: 'wrap'
+                  display: "flex",
+                  flexWrap: "wrap",
                 }}
               >
                 <p
                   style={{
-                    width: '100%',
+                    width: "100%",
                     fontSize: "28px",
-                    lineHeight: '28px',
+                    lineHeight: "28px",
                     fontWeight: "400",
                     textAlign: "right",
                   }}
@@ -102,21 +101,21 @@ export default function ContainerContato(props) {
                 </p>
                 <p
                   style={{
-                    width: '100%',
+                    width: "100%",
                     fontSize: "50px",
                     lineHeight: "52px",
                     fontWeight: "400",
                     textAlign: "right",
-                    margin: '10px 0px'
+                    margin: "10px 0px",
                   }}
                 >
                   24H
                 </p>
                 <p
                   style={{
-                    width: '100%',
+                    width: "100%",
                     fontSize: "24px",
-                    lineHeight: '24px',
+                    lineHeight: "24px",
                     fontWeight: "400",
                     textAlign: "right",
                   }}
@@ -148,10 +147,10 @@ export default function ContainerContato(props) {
                 style={{
                   width: "245px",
                   height: "145px",
-                  padding: '10px 15px',
+                  padding: "10px 15px",
                   margin: "0 auto",
-                  display: 'flex', 
-                  flexWrap: 'wrap',
+                  display: "flex",
+                  flexWrap: "wrap",
                   borderRadius: "15px",
                   backgroundColor: "#4826E3",
                   boxShadow: "2px 3px 7px 0px rgba(0,0,0,0.4)",
@@ -171,8 +170,8 @@ export default function ContainerContato(props) {
                 </p>
                 <div
                   style={{
-                    width: '100%', 
-                    marginTop: 'auto', 
+                    width: "100%",
+                    marginTop: "auto",
                     fontSize: "14px",
                     fontWeight: "400",
                     textAlign: "right",
@@ -191,7 +190,7 @@ export default function ContainerContato(props) {
                 </div>
                 <div
                   style={{
-                    width: '100%', 
+                    width: "100%",
                     marginTop: "auto",
                     fontSize: "14px",
                     fontWeight: "400",
@@ -234,34 +233,34 @@ export default function ContainerContato(props) {
                   height: "145px",
                   padding: "5px 20px",
                   margin: "0 auto",
-                  display: 'flex', 
-                  flexWrap: 'wrap', 
+                  display: "flex",
+                  flexWrap: "wrap",
                   borderRadius: "15px",
                   boxShadow: "2px 3px 7px 0px rgba(0,0,0,0.4)",
                   backgroundColor: "#2800DE",
                 }}
               >
-                <div 
+                <div
                   style={{
-                    width: '100%', 
-                    height: '50px', 
-                    margin: 'auto auto 25px', 
-                    display: 'flex'
+                    width: "100%",
+                    height: "50px",
+                    margin: "auto auto 25px",
+                    display: "flex",
                   }}
                 >
                   <div
                     style={{
                       width: "50px",
                       height: "50px",
-                      marginRight: '5px'
+                      marginRight: "5px",
                     }}
                   >
                     <AiOutlineQuestionCircle size={50} />
-                  </div>  
+                  </div>
                   <p
                     style={{
                       width: "150px",
-                      margin: 'auto 0px', 
+                      margin: "auto 0px",
                       fontSize: "20px",
                       lineHeight: "23px",
                       fontWeight: "400",
@@ -271,11 +270,11 @@ export default function ContainerContato(props) {
                     Duvidas sobre o seguro viagem?
                   </p>
                 </div>
-                <div 
+                <div
                   style={{
-                    width: '100%', 
-                    height: 'fit-content', 
-                    display: 'flex'
+                    width: "100%",
+                    height: "fit-content",
+                    display: "flex",
                   }}
                 >
                   <button
@@ -285,13 +284,13 @@ export default function ContainerContato(props) {
                       borderRadius: "5px",
                       padding: "6px 50px",
                       fontWeight: "500",
-                      margin: '0px auto',
+                      margin: "0px auto",
                     }}
                     onClick={scrollToFaq}
                   >
-                    Clique Aqui
+                    Clique aqui
                   </button>
-                </div> 
+                </div>
               </div>
             </div>
           </div>

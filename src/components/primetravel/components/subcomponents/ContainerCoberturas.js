@@ -28,11 +28,11 @@ export default function ContainerCoberturas() {
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl text-start">
-              Confira Nossas Coberturas.
+              Confira nossas coberturas.
             </h1>
             <p className="mt-4 text-xl text-gray-500 text-start">
-              São Mais de 30 Coberturas Exclusivas Para as Suas Próximas
-              Viagens.
+              São mais de 30 coberturas exclusivas para as suas próximas
+              viagens.
             </p>
           </div>
           <div>
@@ -130,7 +130,7 @@ export default function ContainerCoberturas() {
                   bg-grayUso px-8 py-3 text-center font-medium text-white
                   hover:bg-bluePrime2"
                 >
-                  Ver Coberturas
+                  Ver coberturas
                 </button>
               </div>
             </div>
@@ -150,7 +150,7 @@ export default function ContainerCoberturas() {
       >
         <div className="animate__animated animate__fadeIn bg-white rounded-lg shadow px-2 py-4 my-10 mx-auto h-100 border border-gray-300  overflow-hidden order-1">
           <div className="flex justify-between items-center mb-4 p-3">
-            <h2 className="text-2xl">Todas as Coberturas</h2>
+            <h2 className="text-2xl">Todas as coberturas</h2>
             <button onClick={closeModal} className="bg-transparent">
               <FontAwesomeIcon
                 icon={faTimes}

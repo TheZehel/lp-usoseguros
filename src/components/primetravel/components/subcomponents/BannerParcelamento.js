@@ -12,7 +12,7 @@ export default function BannerParcelamento() {
     <div className="flex justify-center items-center text-center">
       <div className="bg-white w-full flex flex-col items-center justify-center px-5 my-1 py-2 rounded-lg shadow-md">
         <h2 className="font-bold text-grayPrime 1 text-md ">
-          Pague Parcelado em até 12x Sem Juros!
+          Pague parcelado em até 12x sem juros!
         </h2>
         <div className="flex items-center justify-center">
           <FontAwesomeIcon

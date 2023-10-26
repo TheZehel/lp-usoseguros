@@ -25,7 +25,7 @@ export default function CardPlano({ title, description, price, image }) {
           {title}
         </Typography>
         <Typography variant="h2">
-          <span className="text-base">A Partir de:</span> <br />
+          <span className="text-base">A partir de:</span> <br />
           <span className="text-x1">R$</span> <span>{price}</span>
           <span className="text-sm"> /dia</span>
         </Typography>
@@ -40,7 +40,7 @@ export default function CardPlano({ title, description, price, image }) {
             ripple={false}
             fullWidth={true}
           >
-            Cotar Agora
+            Cotar agora
           </Button>
         </a>
       </CardBody>

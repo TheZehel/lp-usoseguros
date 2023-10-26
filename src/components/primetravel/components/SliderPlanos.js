@@ -33,7 +33,7 @@ const planos = [
   },
   {
     id: 3,
-    title: "Estados Únidos e Canadá",
+    title: "Estados Unidos e Canadá",
     price: "12,95",
     description: "",
     image: ImgSliderEstadosUnidos,
@@ -93,8 +93,7 @@ export default function SliderPlanos() {
 
   return (
     <div className="montserrat ">
-      <h2 className="text-center text-4xl pt-20"> Nossos Planos</h2>
-
+      <h2 className="text-center text-4xl pt-20"> Nossos planos</h2>
       <div onMouseEnter={handleSlideBounce} onTouchStart={handleSlideBounce}>
         <Swiper
           ref={swiperRef}
