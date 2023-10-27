@@ -39,7 +39,7 @@ export default function ContainerContato(props) {
             }}
           >
             Nos envie um WhatsApp de qualquer lugar que responderemos
-            imediatamente. Atendimento em português, 365 dias dias por ano!
+            imediatamente. Atendimento em português, 365 dias por ano!
           </p>
           <div
             className="flex"

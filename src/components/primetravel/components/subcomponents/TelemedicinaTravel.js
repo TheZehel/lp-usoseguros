@@ -33,7 +33,7 @@ export default function TelemedicinaTravel() {
                 com o pronto atendimento virtual do einstein, um serviço de
                 telemedicina para atendimento de sintomas de baixa complexidade,
                 com a qualidade do hospital israelita Albert Einstein. O acesso
-                a este beneficio é rápido e fácil por meio do celular ou
+                a este benefício é rápido e fácil por meio do celular ou
                 computador, basta apenas ter conexão com internet.
               </p>
             </div>
