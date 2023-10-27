@@ -437,7 +437,7 @@ export default function FormTravelBanner() {
         <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
           <div className="animate__animated animate__fadeIn ">
             <BannerPix />
-            <Chip value="Sua Viagem Mais Segura Com" className="bg-grayUso" />
+            <Chip value="Sua viagem mais segura com" className="bg-grayUso" />
             <h1 className="text-4xl font-bold mb-4 text-white">Uso Seguros </h1>
             <p className="text-white text-2xl font-semibold">
               Não importa como. Não importa o destino. Você{" "}
