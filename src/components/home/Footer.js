@@ -110,7 +110,7 @@ export default function Footer() {
             Reservados.
           </Typography>
           <div className="flex gap-4 text-blue-gray-900 sm:justify-center">
-            <Typography
+            {/*<Typography
               as="a"
               href="https://www.facebook.com/primesecure"
               className="opacity-80 transition-opacity hover:text-bluePrime"
@@ -127,10 +127,10 @@ export default function Footer() {
                   clipRule="evenodd"
                 />
               </svg>
-            </Typography>
+            </Typography>*/}
             <Typography
               as="a"
-              href="https://www.instagram.com/primesecureoficial/"
+              href="https://www.instagram.com/usoseguros/"
               className="opacity-80 transition-opacity hover:text-bluePrime"
             >
               <svg

@@ -16,7 +16,7 @@ const imageManager = {
   },
   ImagensLandPage: {
     ImgEmParceriaCom:
-      "https://storage.googleapis.com/primesecure/em-parceria.webp",
+      "https://storage.googleapis.com/primesecure/em%20parceria.png",
     ImgLogoTooSeguros:
       "https://storage.googleapis.com/primesecure/too-seguros.webp",
     ImgAlmofadas2: "https://storage.googleapis.com/primesecure/almofadas2.webp",
@@ -45,8 +45,7 @@ const imageManager = {
     ImgConcierge: "https://storage.googleapis.com/primesecure/concierge.webp",
   },
   banners: {
-    bannerPrimeTravel:
-      "https://storage.googleapis.com/primesecure/seguro-viagem-prime-travel-banner.webp",
+    bannerPrimeTravel: "https://storage.googleapis.com/primesecure/fundo.png",
     bannerCelHome: "https://storage.googleapis.com/primesecure/img-banner.webp",
   },
 };

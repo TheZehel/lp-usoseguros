@@ -35,7 +35,7 @@ const imageManagerPrimeTravel = {
   },
   ImagensLandPage: {
     ImgEmParceriaCom:
-      "https://storage.googleapis.com/primesecure/em-parceria.webp",
+      "https://storage.googleapis.com/primesecure/btg%26too-parceria.png",
     ImgLogoTooSeguros:
       "https://storage.googleapis.com/primesecure/too-seguros.webp",
     ImgAlmofadas2: "https://storage.googleapis.com/primesecure/almofadas2.webp",
