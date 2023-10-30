@@ -258,7 +258,8 @@ export default function FormTravelBanner() {
     delete payload.destiny;
 
     //Começo da URL de cotação
-    let fullUrl = "#";
+    let fullUrl =
+      "https://cotador-usoseguros.primesecure.com.br/cotacao-rapida?";
 
     //Forma URL de cotação com os parametros do payload
     for (let key in payload) {
