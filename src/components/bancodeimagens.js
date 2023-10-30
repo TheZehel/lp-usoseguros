@@ -1,6 +1,6 @@
 const imageManager = {
   brand: {
-    logoHome: "https://storage.googleapis.com/primesecure/logo-uso.png",
+    logoHome: "https://storage.googleapis.com/primesecure/Seguros-6.png",
   },
   SliderPrecos: {
     ImgSliderBrasil: "https://storage.googleapis.com/primesecure/brasil.webp",
