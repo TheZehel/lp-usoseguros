@@ -252,13 +252,14 @@ export default function FormTravelBanner() {
     }
 
     //Cria form da RD
-    let form = convertToForm(payload, "lead-primetravel-api");
+    let form = convertToForm(payload, "lead-usoseguros");
 
     //Deleta objeto que retorna do select de destino
     delete payload.destiny;
 
     //Começo da URL de cotação
-    let fullUrl = "https://primetravel.primesecure.com.br/cotacao-rapida?";
+    let fullUrl =
+      "https://cotador-usoseguros.primesecure.com.br/cotacao-rapida?";
 
     //Forma URL de cotação com os parametros do payload
     for (let key in payload) {
@@ -784,7 +785,7 @@ export default function FormTravelBanner() {
               onClick={(e) => {
                 handleSubmit(e);
                 window.dataLayer = window.dataLayer || [];
-                window.dataLayer.push({ event: "lead-primetravel" });
+                window.dataLayer.push({ event: "lead-usoseguros" });
               }}
             >
               Cotar Agora
