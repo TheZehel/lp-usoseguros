@@ -29,8 +29,8 @@ export default function TelemedicinaTravel() {
                 className="mt-4"
                 style={{ color: "#919096", fontSize: "1.1rem" }}
               >
-                Agora todos os planos de Seguro viagem da Prime Travel contam
-                com o pronto atendimento virtual do einstein, um serviço de
+                Agora todos os planos de Seguro Viagem da Uso Seguros contam com
+                o pronto atendimento virtual do einstein, um serviço de
                 telemedicina para atendimento de sintomas de baixa complexidade,
                 com a qualidade do hospital israelita Albert Einstein. O acesso
                 a este benefício é rápido e fácil por meio do celular ou

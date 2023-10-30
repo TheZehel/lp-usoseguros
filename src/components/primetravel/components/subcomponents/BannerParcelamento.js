@@ -9,9 +9,9 @@ import { faCreditCard } from "@fortawesome/free-regular-svg-icons";
 
 export default function BannerParcelamento() {
   return (
-    <div className="flex justify-center items-center text-center">
+    <div className="flex justify-center items-center text-center text-md">
       <div className="bg-white w-full flex flex-col items-center justify-center px-5 my-1 py-2 rounded-lg shadow-md">
-        <h2 className="font-bold text-grayPrime 1 text-md ">
+        <h2 className="font-bold text-grayPrime 1 text-md">
           Pague parcelado em até 12x sem juros!
         </h2>
         <div className="flex items-center justify-center">

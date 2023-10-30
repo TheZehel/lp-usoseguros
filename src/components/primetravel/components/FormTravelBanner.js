@@ -437,9 +437,10 @@ export default function FormTravelBanner() {
       <div className="container mx-auto pt-10 text-center ">
         <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
           <div className="animate__animated animate__fadeIn ">
-            <BannerPix />
             <Chip value="Sua viagem mais segura com" className="bg-grayUso" />
-            <h1 className="text-4xl font-bold mb-4 text-white">Uso Seguros </h1>
+            <h1 className="text-4xl font-bold mb-4 text-white pt-1">
+              Seguro Viagem{" "}
+            </h1>
             <p className="text-white text-2xl font-semibold">
               Não importa como. Não importa o destino. Você{" "}
               <span className="font-bold">viajará protegido</span>, e contando
@@ -451,6 +452,7 @@ export default function FormTravelBanner() {
               alt="Proteção Covid, Preços Imbativeis, 30 Serviços e coberturas, Totalmente Digital"
               className="m-auto w-80 justify-center items-center pt-5"
             />
+            <BannerPix />
             <BannerParcelamento />
           </div>
           <div className="animate__animated animate__zoomIn rounded-lg bg-white p-10 sm:p-4 ">
@@ -458,7 +460,7 @@ export default function FormTravelBanner() {
               Faça sua cotação gratuita
             </h2>
             <p className="mt-2 text-lg leading-8 text-gray-600">
-              Inicie sua cotação online preenchendo o formulário abaixo.
+              Inicie sua cotação on-line preenchendo o formulário abaixo.
             </p>
             <form
               action=""

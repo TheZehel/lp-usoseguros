@@ -3,7 +3,7 @@ import { faPix } from "@fortawesome/free-brands-svg-icons";
 
 export default function BannerPix() {
   return (
-    <div className=" flex justify-center items-center">
+    <div className=" flex justify-center items-center text-md">
       <div className="bg-white w-full flex items-center justify-center px-5 my-1 py-2 rounded-lg shadow-md">
         <FontAwesomeIcon
           icon={faPix}

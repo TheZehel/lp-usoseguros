@@ -41,7 +41,7 @@ const imageManagerPrimeTravel = {
     ImgAlmofadas2: "https://storage.googleapis.com/primesecure/almofadas2.webp",
     ImgAlmofadas: "https://storage.googleapis.com/primesecure/almofadas.webp",
     ImgTelemedicina:
-      "https://storage.googleapis.com/primesecure/telemedicina.png",
+      "https://storage.googleapis.com/primesecure/usoseguros-mais-alberteinstein.png",
     ImgBgContato: "https://storage.googleapis.com/primesecure/bg-contatos.webp",
     ImgLogoTooSeguros2:
       "https://storage.googleapis.com/primesecure/logo-too-seguros.webp",
