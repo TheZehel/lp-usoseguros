@@ -52,7 +52,7 @@ export default function ContainerContato(props) {
               flexWrap: "wrap",
             }}
           >
-            <div
+            {/*<div
               style={{
                 margin: "0 auto 25px auto",
                 minWidth: "245px",
@@ -123,7 +123,7 @@ export default function ContainerContato(props) {
                   +54 9 11 24607961
                 </p>
               </div>
-            </div>
+            </div>*/}
             <div
               style={{
                 minWidth: "245px",
