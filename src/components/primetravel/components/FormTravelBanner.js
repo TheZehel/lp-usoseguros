@@ -437,10 +437,13 @@ export default function FormTravelBanner() {
       <div className="container mx-auto pt-10 text-center ">
         <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
           <div className="animate__animated animate__fadeIn ">
-            <Chip value="Sua viagem mais segura com" className="bg-grayUso" />
             <h1 className="text-4xl font-bold mb-4 text-white pt-1">
               Seguro Viagem{" "}
             </h1>
+            <Chip
+              value="Sua viagem mais segura com a Uso Seguros"
+              className="bg-grayUso text-xl"
+            />
             <p className="text-white text-2xl font-semibold">
               Não importa como. Não importa o destino. Você{" "}
               <span className="font-bold">viajará protegido</span>, e contando
