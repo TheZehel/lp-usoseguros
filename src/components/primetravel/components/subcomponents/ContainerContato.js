@@ -219,7 +219,7 @@ export default function ContainerContato(props) {
                 </div>
               </div>
             </div>
-            <div
+            {/*<div
               style={{
                 margin: "0 auto 25px auto",
                 minWidth: "245px",
@@ -257,7 +257,7 @@ export default function ContainerContato(props) {
                   >
                     <AiOutlineQuestionCircle size={50} />
                   </div>
-                  <p
+                  <p className=""
                     style={{
                       width: "150px",
                       margin: "auto 0px",
@@ -290,9 +290,9 @@ export default function ContainerContato(props) {
                   >
                     Clique aqui
                   </button>
-                </div>
+                  </div>
               </div>
-            </div>
+                  </div>*/}
           </div>
         </div>
       </div>
