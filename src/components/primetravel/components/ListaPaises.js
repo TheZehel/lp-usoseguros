@@ -83,6 +83,7 @@ const ListaPaises = [
   { value: "Argentina", label: "Argentina", regiao: "2" },
   { value: "Bolívia", label: "Bolívia", regiao: "2" },
   { value: "Chile", label: "Chile", regiao: "2" },
+  { value: "México", label: "México", regiao: "2" },
   { value: "Colômbia", label: "Colômbia", regiao: "2" },
   { value: "Cuba", label: "Cuba", regiao: "2" },
   { value: "Equador", label: "Equador", regiao: "2" },
