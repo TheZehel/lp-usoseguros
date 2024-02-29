@@ -61,20 +61,20 @@ function IndexTravel() {
       <FormTravelBanner />
       <FaixaBanner />
       {/*<BrindeTravel />*/}
-      <ContainerCoberturas />
-      {<SliderPlanos />}
-      <TelemedicinaTravel />
-      <ContainerContato scroll={scrollToFaq} />
+      {/*<ContainerCoberturas />*/}
+      {/*{<SliderPlanos />}*/}
+      {/*<TelemedicinaTravel />*/}
+      {/*<ContainerContato scroll={scrollToFaq} />*/}
       {/*<ContainerDepoimetos />*/}
       {/*<div className="relative isolate flex items-center gap-x-6 overflow-hidden bg-gray-50 px-6 py-2.5 sm:px-3.5 sm:before:flex-1">
         Seguro garantido pela
         <img src={imageManagerPrimeTravel.ImagensLandPage.ImgEmParceriaCom} alt="Logo da empresa parceira Too Seguros"/>
         uma empresa do grupo BTG PACTUAL                
         </div>*/}
-      <SessaoInformativaProdutosLp
+      {/*<SessaoInformativaProdutosLp
         InformacoesProdutos={InformacoesProdutos}
         productId="2"
-      />
+      />*/}
       {/*<ConteudoSessaoInfo sessaoInfoLp={sessaoInfoLp} sessaoInfoId="2" />*/}
       {/*<ContainerParceiros />*/}
       {/*<div ref={FaqRef}>

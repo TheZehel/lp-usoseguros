@@ -65,7 +65,7 @@ const currentYear = new Date().getFullYear();
 export default function Footer() {
   return (
     <footer className="relative w-full bg-grayUso text-white">
-      <div className="mx-auto w-full max-w-full px-8 py-8 mt-40">
+      <div className="mx-auto w-full max-w-full px-8 py-8">
         <div className="grid grid-cols-1n items-center justify-center gap-4 md:grid-cols-2">
           <img
             src={imageManager.brand.logoHome}

@@ -3,11 +3,13 @@ import imageManagerPrimeTravel from "../../bancodeimagens/BancoDeImagensPrimeTra
 export default function FaixaBanner() {
   return (
     <div
-      className="bg-grayUso mb-4"
-      style={{
-        borderBottomLeftRadius: "10px",
-        borderBottomRightRadius: "10px",
-      }}
+      className="bg-grayUso"
+      style={
+        {
+          //borderBottomLeftRadius: "10px",
+          //borderBottomRightRadius: "10px",
+        }
+      }
     >
       <div
         className="flex flex-wrap items-center justify-center md:justify-start gap-x-4 gap-y-2 pt-3 pb-3 mx-auto text-center md:text-left text-white"
