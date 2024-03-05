@@ -35,7 +35,7 @@ const imageManagerPrimeTravel = {
   },
   ImagensLandPage: {
     ImgEmParceriaCom:
-      "https://storage.googleapis.com/primesecure/btg%26too-parceria.png",
+      "https://storage.googleapis.com/primesecure/em-parceria-generali.png",
     ImgLogoTooSeguros:
       "https://storage.googleapis.com/primesecure/too-seguros.webp",
     ImgAlmofadas2: "https://storage.googleapis.com/primesecure/almofadas2.webp",
@@ -47,6 +47,8 @@ const imageManagerPrimeTravel = {
       "https://storage.googleapis.com/primesecure/logo-too-seguros.webp",
     ImgLogoPactual:
       "https://storage.googleapis.com/primesecure/btg-pactual.webp",
+    ImgLogoGenerali:
+      "https://storage.googleapis.com/primesecure/logo-generali.png",
   },
   ContainerCoberturas: {
     ImgAtradoDeVoos:

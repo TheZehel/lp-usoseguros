@@ -3,13 +3,11 @@ import imageManagerPrimeTravel from "../../bancodeimagens/BancoDeImagensPrimeTra
 export default function FaixaBanner() {
   return (
     <div
-      className="bg-grayUso"
-      style={
-        {
-          //borderBottomLeftRadius: "10px",
-          //borderBottomRightRadius: "10px",
-        }
-      }
+      className="bg-grayUso mb-4"
+      style={{
+        borderBottomLeftRadius: "10px",
+        borderBottomRightRadius: "10px",
+      }}
     >
       <div
         className="flex flex-wrap items-center justify-center md:justify-start gap-x-4 gap-y-2 pt-3 pb-3 mx-auto text-center md:text-left text-white"
@@ -21,11 +19,11 @@ export default function FaixaBanner() {
       >
         <p className="leading-6">Seguro garantido pela</p>
         <img
-          src={imageManagerPrimeTravel.ImagensLandPage.ImgLogoTooSeguros}
+          src={imageManagerPrimeTravel.ImagensLandPage.ImgLogoGenerali}
           alt="Logo da empresa parceira Too Seguros"
-          className="max-w-65"
+          className="w-40"
         />
-        <p className="leading-6">uma empresa do grupo BTG PACTUAL</p>
+        <p className="leading-6">uma seguradora com mais de 100 anos.</p>
       </div>
     </div>
   );
